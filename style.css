@@ -1,0 +1,22 @@
+header{
+    display: flex;
+}
+header h1{
+    position: relative;
+    left: 42%;
+}
+nav ul{
+    display:flex;
+    justify-content:space-around;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.first{
+    border:2px solid green;
+    padding:15%;
+    
+}
+.socials{
+    border:2px solid green;
+}
